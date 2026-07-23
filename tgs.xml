@@ -10,8 +10,11 @@
   <programme start="20260723080000 +0200" stop="20260723080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
-  <programme start="20260723080500 +0200" stop="20260723110000 +0200" channel="tgs.gds.it">
+  <programme start="20260723080500 +0200" stop="20260723093000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE WEEKEND</title>
+  </programme>
+  <programme start="20260723093000 +0200" stop="20260723110000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
   <programme start="20260723110000 +0200" stop="20260723113000 +0200" channel="tgs.gds.it">
     <title lang="it">RACCONTAMI</title>
@@ -22,10 +25,7 @@
   <programme start="20260723135000 +0200" stop="20260723142500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
-  <programme start="20260723142500 +0200" stop="20260723150000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I Edizione</title>
-  </programme>
-  <programme start="20260723150000 +0200" stop="20260723153000 +0200" channel="tgs.gds.it">
+  <programme start="20260723142500 +0200" stop="20260723153000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
   <programme start="20260723153000 +0200" stop="20260723180000 +0200" channel="tgs.gds.it">
