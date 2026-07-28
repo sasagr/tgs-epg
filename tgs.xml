@@ -7,8 +7,11 @@
   <programme start="20260728080000 +0200" stop="20260728080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
-  <programme start="20260728080500 +0200" stop="20260728103000 +0200" channel="tgs.gds.it">
+  <programme start="20260728080500 +0200" stop="20260728093000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE WEEKEND</title>
+  </programme>
+  <programme start="20260728093000 +0200" stop="20260728103000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
   <programme start="20260728103000 +0200" stop="20260728113000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS STUDIO SPORT</title>
@@ -22,11 +25,8 @@
   <programme start="20260728142500 +0200" stop="20260728150000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
-  <programme start="20260728150000 +0200" stop="20260728153000 +0200" channel="tgs.gds.it">
+  <programme start="20260728150000 +0200" stop="20260728175000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
-  </programme>
-  <programme start="20260728153000 +0200" stop="20260728175000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
   <programme start="20260728175000 +0200" stop="20260728180000 +0200" channel="tgs.gds.it">
     <title lang="it">SORSI DI BENESSERE</title>
