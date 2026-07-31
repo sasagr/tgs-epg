@@ -28,8 +28,11 @@
   <programme start="20260731142500 +0200" stop="20260731150000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
-  <programme start="20260731150000 +0200" stop="20260731184000 +0200" channel="tgs.gds.it">
+  <programme start="20260731150000 +0200" stop="20260731153000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
+  </programme>
+  <programme start="20260731153000 +0200" stop="20260731184000 +0200" channel="tgs.gds.it">
+    <title lang="it">Le Avventure del signor Litterio e del signor La Rosa</title>
   </programme>
   <programme start="20260731184000 +0200" stop="20260731190000 +0200" channel="tgs.gds.it">
     <title lang="it">VISTA COLORI</title>
@@ -43,10 +46,7 @@
   <programme start="20260731195000 +0200" stop="20260731202000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
-  <programme start="20260731202000 +0200" stop="20260731210000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
-  </programme>
-  <programme start="20260731210000 +0200" stop="20260731213000 +0200" channel="tgs.gds.it">
+  <programme start="20260731202000 +0200" stop="20260731213000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
   <programme start="20260731213000 +0200" stop="20260731223000 +0200" channel="tgs.gds.it">
