@@ -4,17 +4,17 @@
   <channel id="tgs.gds.it">
     <display-name>TGS</display-name>
   </channel>
+  <programme start="20260731031000 +0200" stop="20260731080000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA</title>
+  </programme>
   <programme start="20260731080000 +0200" stop="20260731080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
   <programme start="20260731080500 +0200" stop="20260731093000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE WEEKEND</title>
   </programme>
-  <programme start="20260731093000 +0200" stop="20260731103000 +0200" channel="tgs.gds.it">
+  <programme start="20260731093000 +0200" stop="20260731113000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
-  </programme>
-  <programme start="20260731103000 +0200" stop="20260731113000 +0200" channel="tgs.gds.it">
-    <title lang="it">RACCONTAMI</title>
   </programme>
   <programme start="20260731113000 +0200" stop="20260731135000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
