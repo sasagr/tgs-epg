@@ -25,7 +25,10 @@
   <programme start="20260802132000 +0200" stop="20260802135000 +0200" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
   </programme>
-  <programme start="20260802135000 +0200" stop="20260802154000 +0200" channel="tgs.gds.it">
+  <programme start="20260802135000 +0200" stop="20260802143000 +0200" channel="tgs.gds.it">
+    <title lang="it">TGS SETTE</title>
+  </programme>
+  <programme start="20260802143000 +0200" stop="20260802154000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
   </programme>
   <programme start="20260802154000 +0200" stop="20260802180000 +0200" channel="tgs.gds.it">
@@ -34,10 +37,7 @@
   <programme start="20260802180000 +0200" stop="20260802195000 +0200" channel="tgs.gds.it">
     <title lang="it">PILLOLE DI CAPODANNO 2023</title>
   </programme>
-  <programme start="20260802195000 +0200" stop="20260802202500 +0200" channel="tgs.gds.it">
-    <title lang="it">TGS SETTE</title>
-  </programme>
-  <programme start="20260802202500 +0200" stop="20260802213000 +0200" channel="tgs.gds.it">
+  <programme start="20260802195000 +0200" stop="20260802213000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
   </programme>
   <programme start="20260802213000 +0200" stop="20260802233000 +0200" channel="tgs.gds.it">
