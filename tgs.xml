@@ -7,8 +7,11 @@
   <programme start="20260802080000 +0200" stop="20260802080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
-  <programme start="20260802080500 +0200" stop="20260802103000 +0200" channel="tgs.gds.it">
+  <programme start="20260802080500 +0200" stop="20260802093000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE WEEKEND</title>
+  </programme>
+  <programme start="20260802093000 +0200" stop="20260802103000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
   <programme start="20260802103000 +0200" stop="20260802110000 +0200" channel="tgs.gds.it">
     <title lang="it">PILLOLE DI CAPODANNO 2023</title>
@@ -22,10 +25,7 @@
   <programme start="20260802132000 +0200" stop="20260802135000 +0200" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
   </programme>
-  <programme start="20260802135000 +0200" stop="20260802143000 +0200" channel="tgs.gds.it">
-    <title lang="it">TGS SETTE</title>
-  </programme>
-  <programme start="20260802143000 +0200" stop="20260802154000 +0200" channel="tgs.gds.it">
+  <programme start="20260802135000 +0200" stop="20260802154000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
   </programme>
   <programme start="20260802154000 +0200" stop="20260802180000 +0200" channel="tgs.gds.it">
