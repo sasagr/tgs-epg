@@ -22,7 +22,10 @@
   <programme start="20260803135000 +0200" stop="20260803142500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I edizione</title>
   </programme>
-  <programme start="20260803142500 +0200" stop="20260803175000 +0200" channel="tgs.gds.it">
+  <programme start="20260803142500 +0200" stop="20260803153000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I edizione</title>
+  </programme>
+  <programme start="20260803153000 +0200" stop="20260803175000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I edizione</title>
   </programme>
   <programme start="20260803175000 +0200" stop="20260803180000 +0200" channel="tgs.gds.it">
@@ -34,11 +37,8 @@
   <programme start="20260803202500 +0200" stop="20260803210000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II edizione</title>
   </programme>
-  <programme start="20260803210000 +0200" stop="20260803212000 +0200" channel="tgs.gds.it">
+  <programme start="20260803210000 +0200" stop="20260803220000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II edizione</title>
-  </programme>
-  <programme start="20260803212000 +0200" stop="20260803220000 +0200" channel="tgs.gds.it">
-    <title lang="it">TG Studio Sport</title>
   </programme>
   <programme start="20260803220000 +0200" stop="20260803225000 +0200" channel="tgs.gds.it">
     <title lang="it">TG Studio Sport</title>
