@@ -7,11 +7,8 @@
   <programme start="20260804080000 +0200" stop="20260804080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
-  <programme start="20260804080500 +0200" stop="20260804093000 +0200" channel="tgs.gds.it">
+  <programme start="20260804080500 +0200" stop="20260804103000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE WEEKEND</title>
-  </programme>
-  <programme start="20260804093000 +0200" stop="20260804103000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
   <programme start="20260804103000 +0200" stop="20260804113000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS STUDIO SPORT</title>
