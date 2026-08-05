@@ -31,14 +31,14 @@
   <programme start="20260805142500 +0200" stop="20260805150000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
-  <programme start="20260805150000 +0200" stop="20260805175000 +0200" channel="tgs.gds.it">
+  <programme start="20260805150000 +0200" stop="20260805153000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
-  <programme start="20260805175000 +0200" stop="20260805191000 +0200" channel="tgs.gds.it">
-    <title lang="it">RACCONTAMI</title>
+  <programme start="20260805153000 +0200" stop="20260805175000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
-  <programme start="20260805191000 +0200" stop="20260805195000 +0200" channel="tgs.gds.it">
-    <title lang="it">TG MONTECITORIO</title>
+  <programme start="20260805175000 +0200" stop="20260805195000 +0200" channel="tgs.gds.it">
+    <title lang="it">RACCONTAMI</title>
   </programme>
   <programme start="20260805195000 +0200" stop="20260805202000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II edizione</title>
