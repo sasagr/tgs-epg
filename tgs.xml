@@ -19,7 +19,10 @@
   <programme start="20260810113000 +0200" stop="20260810135000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
   </programme>
-  <programme start="20260810135000 +0200" stop="20260810153000 +0200" channel="tgs.gds.it">
+  <programme start="20260810135000 +0200" stop="20260810142500 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I edizione</title>
+  </programme>
+  <programme start="20260810142500 +0200" stop="20260810153000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I edizione</title>
   </programme>
   <programme start="20260810153000 +0200" stop="20260810175000 +0200" channel="tgs.gds.it">
@@ -28,11 +31,8 @@
   <programme start="20260810175000 +0200" stop="20260810180000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I edizione</title>
   </programme>
-  <programme start="20260810180000 +0200" stop="20260810202500 +0200" channel="tgs.gds.it">
+  <programme start="20260810180000 +0200" stop="20260810210000 +0200" channel="tgs.gds.it">
     <title lang="it">Tg Economia</title>
-  </programme>
-  <programme start="20260810202500 +0200" stop="20260810210000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II edizione</title>
   </programme>
   <programme start="20260810210000 +0200" stop="20260810212000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II edizione</title>
