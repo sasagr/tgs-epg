@@ -19,7 +19,10 @@
   <programme start="20260811113000 +0200" stop="20260811135000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
   </programme>
-  <programme start="20260811135000 +0200" stop="20260811150000 +0200" channel="tgs.gds.it">
+  <programme start="20260811135000 +0200" stop="20260811142500 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I EDIZIONE</title>
+  </programme>
+  <programme start="20260811142500 +0200" stop="20260811150000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
   <programme start="20260811150000 +0200" stop="20260811153000 +0200" channel="tgs.gds.it">
@@ -37,10 +40,7 @@
   <programme start="20260811181000 +0200" stop="20260811193000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE FALCONE</title>
   </programme>
-  <programme start="20260811193000 +0200" stop="20260811202000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
-  </programme>
-  <programme start="20260811202000 +0200" stop="20260811211500 +0200" channel="tgs.gds.it">
+  <programme start="20260811193000 +0200" stop="20260811211500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
   <programme start="20260811211500 +0200" stop="20260811220000 +0200" channel="tgs.gds.it">
