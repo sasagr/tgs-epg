@@ -7,8 +7,11 @@
   <programme start="20260814031000 +0200" stop="20260814080000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
   </programme>
-  <programme start="20260814080000 +0200" stop="20260814093000 +0200" channel="tgs.gds.it">
+  <programme start="20260814080000 +0200" stop="20260814080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
+  </programme>
+  <programme start="20260814080500 +0200" stop="20260814093000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE WEEKEND</title>
   </programme>
   <programme start="20260814093000 +0200" stop="20260814103000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
@@ -19,10 +22,7 @@
   <programme start="20260814113000 +0200" stop="20260814135000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
   </programme>
-  <programme start="20260814135000 +0200" stop="20260814142500 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I EDIZIONE</title>
-  </programme>
-  <programme start="20260814142500 +0200" stop="20260814150000 +0200" channel="tgs.gds.it">
+  <programme start="20260814135000 +0200" stop="20260814150000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
   <programme start="20260814150000 +0200" stop="20260814153000 +0200" channel="tgs.gds.it">
