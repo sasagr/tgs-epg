@@ -4,11 +4,11 @@
   <channel id="tgs.gds.it">
     <display-name>TGS</display-name>
   </channel>
-  <programme start="20260814080000 +0200" stop="20260814080500 +0200" channel="tgs.gds.it">
-    <title lang="it">OROSCOPO</title>
+  <programme start="20260814031000 +0200" stop="20260814080000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA</title>
   </programme>
-  <programme start="20260814080500 +0200" stop="20260814093000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE WEEKEND</title>
+  <programme start="20260814080000 +0200" stop="20260814093000 +0200" channel="tgs.gds.it">
+    <title lang="it">OROSCOPO</title>
   </programme>
   <programme start="20260814093000 +0200" stop="20260814103000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
