@@ -7,11 +7,8 @@
   <programme start="20260821031000 +0200" stop="20260821080000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
   </programme>
-  <programme start="20260821080000 +0200" stop="20260821080500 +0200" channel="tgs.gds.it">
+  <programme start="20260821080000 +0200" stop="20260821093000 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
-  </programme>
-  <programme start="20260821080500 +0200" stop="20260821093000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE WEEKEND</title>
   </programme>
   <programme start="20260821093000 +0200" stop="20260821103000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
