@@ -13,11 +13,8 @@
   <programme start="20260901093000 +0200" stop="20260901103000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
   </programme>
-  <programme start="20260901103000 +0200" stop="20260901113000 +0200" channel="tgs.gds.it">
+  <programme start="20260901103000 +0200" stop="20260901135000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS STUDIO SPORT</title>
-  </programme>
-  <programme start="20260901113000 +0200" stop="20260901135000 +0200" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
   </programme>
   <programme start="20260901135000 +0200" stop="20260901142500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
