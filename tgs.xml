@@ -4,63 +4,6 @@
   <channel id="tgs.gds.it">
     <display-name>TGS</display-name>
   </channel>
-  <programme start="20260902000000 +0200" stop="20260902005000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II edizione</title>
-  </programme>
-  <programme start="20260902005000 +0200" stop="20260902080000 +0200" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
-  </programme>
-  <programme start="20260902080000 +0200" stop="20260902080500 +0200" channel="tgs.gds.it">
-    <title lang="it">OROSCOPO</title>
-  </programme>
-  <programme start="20260902080500 +0200" stop="20260902093000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE WEEKEND</title>
-  </programme>
-  <programme start="20260902093000 +0200" stop="20260902103000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE SHOPPING</title>
-  </programme>
-  <programme start="20260902103000 +0200" stop="20260902113000 +0200" channel="tgs.gds.it">
-    <title lang="it">RACCONTAMI</title>
-  </programme>
-  <programme start="20260902113000 +0200" stop="20260902135000 +0200" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
-  </programme>
-  <programme start="20260902135000 +0200" stop="20260902142500 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I edizione</title>
-  </programme>
-  <programme start="20260902142500 +0200" stop="20260902150000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I Edizione</title>
-  </programme>
-  <programme start="20260902150000 +0200" stop="20260902153000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I Edizione</title>
-  </programme>
-  <programme start="20260902153000 +0200" stop="20260902175000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE SHOPPING</title>
-  </programme>
-  <programme start="20260902175000 +0200" stop="20260902191000 +0200" channel="tgs.gds.it">
-    <title lang="it">RACCONTAMI</title>
-  </programme>
-  <programme start="20260902191000 +0200" stop="20260902195000 +0200" channel="tgs.gds.it">
-    <title lang="it">TG MONTECITORIO</title>
-  </programme>
-  <programme start="20260902195000 +0200" stop="20260902202000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II edizione</title>
-  </programme>
-  <programme start="20260902202000 +0200" stop="20260902210000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II edizione</title>
-  </programme>
-  <programme start="20260902210000 +0200" stop="20260902223000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II edizione</title>
-  </programme>
-  <programme start="20260902223000 +0200" stop="20260902234000 +0200" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
-  </programme>
-  <programme start="20260902234000 +0200" stop="20260903002000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II Edizione</title>
-  </programme>
-  <programme start="20260903002000 +0200" stop="20260903080000 +0200" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
-  </programme>
   <programme start="20260903080000 +0200" stop="20260903080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
@@ -360,5 +303,62 @@
   </programme>
   <programme start="20260908230000 +0200" stop="20260909000000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
+  </programme>
+  <programme start="20260909000000 +0200" stop="20260909005000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II edizione</title>
+  </programme>
+  <programme start="20260909005000 +0200" stop="20260909080000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
+  </programme>
+  <programme start="20260909080000 +0200" stop="20260909080500 +0200" channel="tgs.gds.it">
+    <title lang="it">OROSCOPO</title>
+  </programme>
+  <programme start="20260909080500 +0200" stop="20260909093000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE WEEKEND</title>
+  </programme>
+  <programme start="20260909093000 +0200" stop="20260909103000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
+  </programme>
+  <programme start="20260909103000 +0200" stop="20260909113000 +0200" channel="tgs.gds.it">
+    <title lang="it">RACCONTAMI</title>
+  </programme>
+  <programme start="20260909113000 +0200" stop="20260909135000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
+  </programme>
+  <programme start="20260909135000 +0200" stop="20260909142500 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I edizione</title>
+  </programme>
+  <programme start="20260909142500 +0200" stop="20260909150000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I Edizione</title>
+  </programme>
+  <programme start="20260909150000 +0200" stop="20260909153000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I Edizione</title>
+  </programme>
+  <programme start="20260909153000 +0200" stop="20260909175000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
+  </programme>
+  <programme start="20260909175000 +0200" stop="20260909191000 +0200" channel="tgs.gds.it">
+    <title lang="it">RACCONTAMI</title>
+  </programme>
+  <programme start="20260909191000 +0200" stop="20260909195000 +0200" channel="tgs.gds.it">
+    <title lang="it">TG MONTECITORIO</title>
+  </programme>
+  <programme start="20260909195000 +0200" stop="20260909202000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II edizione</title>
+  </programme>
+  <programme start="20260909202000 +0200" stop="20260909210000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II edizione</title>
+  </programme>
+  <programme start="20260909210000 +0200" stop="20260909213000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II edizione</title>
+  </programme>
+  <programme start="20260909213000 +0200" stop="20260909223000 +0200" channel="tgs.gds.it">
+    <title lang="it">Ma non finisce qua</title>
+  </programme>
+  <programme start="20260909223000 +0200" stop="20260909234000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
+  </programme>
+  <programme start="20260909234000 +0200" stop="20260910004000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II Edizione</title>
   </programme>
 </tv>
