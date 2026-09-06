@@ -4,48 +4,6 @@
   <channel id="tgs.gds.it">
     <display-name>TGS</display-name>
   </channel>
-  <programme start="20260905080000 +0200" stop="20260905080500 +0200" channel="tgs.gds.it">
-    <title lang="it">OROSCOPO</title>
-  </programme>
-  <programme start="20260905080500 +0200" stop="20260905093000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE WEEK END</title>
-  </programme>
-  <programme start="20260905093000 +0200" stop="20260905103000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE SHOPPING</title>
-  </programme>
-  <programme start="20260905103000 +0200" stop="20260905120000 +0200" channel="tgs.gds.it">
-    <title lang="it">Ma non finisce qua</title>
-  </programme>
-  <programme start="20260905120000 +0200" stop="20260905135000 +0200" channel="tgs.gds.it">
-    <title lang="it">VISTA COLORI</title>
-  </programme>
-  <programme start="20260905135000 +0200" stop="20260905163000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I EDIZIONE</title>
-  </programme>
-  <programme start="20260905163000 +0200" stop="20260905170500 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE SHOPPING</title>
-  </programme>
-  <programme start="20260905170500 +0200" stop="20260905173500 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
-  </programme>
-  <programme start="20260905173500 +0200" stop="20260905180000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I EDIZIONE</title>
-  </programme>
-  <programme start="20260905180000 +0200" stop="20260905195000 +0200" channel="tgs.gds.it">
-    <title lang="it">VISTA COLORI</title>
-  </programme>
-  <programme start="20260905195000 +0200" stop="20260905202500 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I EDIZIONE</title>
-  </programme>
-  <programme start="20260905202500 +0200" stop="20260905210000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
-  </programme>
-  <programme start="20260905210000 +0200" stop="20260905234500 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
-  </programme>
-  <programme start="20260905234500 +0200" stop="20260906080000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
-  </programme>
   <programme start="20260906080000 +0200" stop="20260906080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
@@ -358,7 +316,52 @@
   <programme start="20260911223000 +0200" stop="20260911233000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
   </programme>
-  <programme start="20260911233000 +0200" stop="20260912003000 +0200" channel="tgs.gds.it">
+  <programme start="20260911233000 +0200" stop="20260912080000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II EDIZIONE</title>
+  </programme>
+  <programme start="20260912080000 +0200" stop="20260912080500 +0200" channel="tgs.gds.it">
+    <title lang="it">OROSCOPO</title>
+  </programme>
+  <programme start="20260912080500 +0200" stop="20260912093000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE WEEK END</title>
+  </programme>
+  <programme start="20260912093000 +0200" stop="20260912103000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
+  </programme>
+  <programme start="20260912103000 +0200" stop="20260912120000 +0200" channel="tgs.gds.it">
+    <title lang="it">Ma non finisce qua</title>
+  </programme>
+  <programme start="20260912120000 +0200" stop="20260912135000 +0200" channel="tgs.gds.it">
+    <title lang="it">VISTA COLORI</title>
+  </programme>
+  <programme start="20260912135000 +0200" stop="20260912163000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I EDIZIONE</title>
+  </programme>
+  <programme start="20260912163000 +0200" stop="20260912170500 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
+  </programme>
+  <programme start="20260912170500 +0200" stop="20260912173500 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II EDIZIONE</title>
+  </programme>
+  <programme start="20260912173500 +0200" stop="20260912180000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I EDIZIONE</title>
+  </programme>
+  <programme start="20260912180000 +0200" stop="20260912195000 +0200" channel="tgs.gds.it">
+    <title lang="it">VISTA COLORI</title>
+  </programme>
+  <programme start="20260912195000 +0200" stop="20260912202500 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I EDIZIONE</title>
+  </programme>
+  <programme start="20260912202500 +0200" stop="20260912210000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II EDIZIONE</title>
+  </programme>
+  <programme start="20260912210000 +0200" stop="20260912213000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II EDIZIONE</title>
+  </programme>
+  <programme start="20260912213000 +0200" stop="20260912234500 +0200" channel="tgs.gds.it">
+    <title lang="it">MA NON FINISCE QUA</title>
+  </programme>
+  <programme start="20260912234500 +0200" stop="20260913004500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
 </tv>
