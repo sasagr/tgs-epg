@@ -28,8 +28,11 @@
   <programme start="20260907153000 +0200" stop="20260907175000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I edizione</title>
   </programme>
-  <programme start="20260907175000 +0200" stop="20260907202500 +0200" channel="tgs.gds.it">
+  <programme start="20260907175000 +0200" stop="20260907180000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I edizione</title>
+  </programme>
+  <programme start="20260907180000 +0200" stop="20260907202500 +0200" channel="tgs.gds.it">
+    <title lang="it">Tg Economia</title>
   </programme>
   <programme start="20260907202500 +0200" stop="20260907210000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II edizione</title>
@@ -40,11 +43,8 @@
   <programme start="20260907212000 +0200" stop="20260907220000 +0200" channel="tgs.gds.it">
     <title lang="it">TG Studio Sport</title>
   </programme>
-  <programme start="20260907220000 +0200" stop="20260907225000 +0200" channel="tgs.gds.it">
+  <programme start="20260907220000 +0200" stop="20260907235500 +0200" channel="tgs.gds.it">
     <title lang="it">TG Studio Sport</title>
-  </programme>
-  <programme start="20260907225000 +0200" stop="20260907235500 +0200" channel="tgs.gds.it">
-    <title lang="it">Allakatalla</title>
   </programme>
   <programme start="20260907235500 +0200" stop="20260908080000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II edizione</title>
