@@ -28,8 +28,11 @@
   <programme start="20260920135000 +0200" stop="20260920143000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
   </programme>
-  <programme start="20260920143000 +0200" stop="20260920180000 +0200" channel="tgs.gds.it">
+  <programme start="20260920143000 +0200" stop="20260920154000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
+  </programme>
+  <programme start="20260920154000 +0200" stop="20260920180000 +0200" channel="tgs.gds.it">
+    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
   <programme start="20260920180000 +0200" stop="20260920195000 +0200" channel="tgs.gds.it">
     <title lang="it">PILLOLE DI CAPODANNO 2023</title>
@@ -37,11 +40,8 @@
   <programme start="20260920195000 +0200" stop="20260920202500 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
   </programme>
-  <programme start="20260920202500 +0200" stop="20260920213000 +0200" channel="tgs.gds.it">
+  <programme start="20260920202500 +0200" stop="20260920233000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
-  </programme>
-  <programme start="20260920213000 +0200" stop="20260920233000 +0200" channel="tgs.gds.it">
-    <title lang="it">LE AVVENTURE DEL SIGNOR LITTERIO E DEL SIGNOR LA ROSA</title>
   </programme>
   <programme start="20260920233000 +0200" stop="20260921080000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
