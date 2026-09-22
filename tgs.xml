@@ -13,8 +13,11 @@
   <programme start="20260922093000 +0200" stop="20260922103000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
   </programme>
-  <programme start="20260922103000 +0200" stop="20260922135000 +0200" channel="tgs.gds.it">
+  <programme start="20260922103000 +0200" stop="20260922113000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS STUDIO SPORT</title>
+  </programme>
+  <programme start="20260922113000 +0200" stop="20260922135000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
   </programme>
   <programme start="20260922135000 +0200" stop="20260922142500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
@@ -25,11 +28,8 @@
   <programme start="20260922150000 +0200" stop="20260922153000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
-  <programme start="20260922153000 +0200" stop="20260922175000 +0200" channel="tgs.gds.it">
+  <programme start="20260922153000 +0200" stop="20260922180000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
-  </programme>
-  <programme start="20260922175000 +0200" stop="20260922180000 +0200" channel="tgs.gds.it">
-    <title lang="it">SORSI DI BENESSERE</title>
   </programme>
   <programme start="20260922180000 +0200" stop="20260922181000 +0200" channel="tgs.gds.it">
     <title lang="it">TG EUROPA</title>
