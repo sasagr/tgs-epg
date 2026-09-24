@@ -31,8 +31,11 @@
   <programme start="20260924150000 +0200" stop="20260924153000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
-  <programme start="20260924153000 +0200" stop="20260924190000 +0200" channel="tgs.gds.it">
+  <programme start="20260924153000 +0200" stop="20260924180000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
+  </programme>
+  <programme start="20260924180000 +0200" stop="20260924190000 +0200" channel="tgs.gds.it">
+    <title lang="it">RACCONTAMI</title>
   </programme>
   <programme start="20260924190000 +0200" stop="20260924191000 +0200" channel="tgs.gds.it">
     <title lang="it">TG EUROPA</title>
@@ -49,11 +52,8 @@
   <programme start="20260924205500 +0200" stop="20260924213000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II Edizione</title>
   </programme>
-  <programme start="20260924213000 +0200" stop="20260924224000 +0200" channel="tgs.gds.it">
+  <programme start="20260924213000 +0200" stop="20260924234500 +0200" channel="tgs.gds.it">
     <title lang="it">Le Avventure del signor Litterio e del signor La Rosa</title>
-  </programme>
-  <programme start="20260924224000 +0200" stop="20260924234500 +0200" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
   </programme>
   <programme start="20260924234500 +0200" stop="20260925031000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II Edizione</title>
