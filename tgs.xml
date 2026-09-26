@@ -22,8 +22,11 @@
   <programme start="20260926135000 +0200" stop="20260926163000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
-  <programme start="20260926163000 +0200" stop="20260926173500 +0200" channel="tgs.gds.it">
+  <programme start="20260926163000 +0200" stop="20260926170500 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
+  </programme>
+  <programme start="20260926170500 +0200" stop="20260926173500 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
   <programme start="20260926173500 +0200" stop="20260926180000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
@@ -37,11 +40,8 @@
   <programme start="20260926202500 +0200" stop="20260926210000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
-  <programme start="20260926210000 +0200" stop="20260926213000 +0200" channel="tgs.gds.it">
+  <programme start="20260926210000 +0200" stop="20260926234500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
-  </programme>
-  <programme start="20260926213000 +0200" stop="20260926234500 +0200" channel="tgs.gds.it">
-    <title lang="it">MA NON FINISCE QUA</title>
   </programme>
   <programme start="20260926234500 +0200" stop="20260927080000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
