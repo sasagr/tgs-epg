@@ -16,8 +16,11 @@
   <programme start="20260929103000 +0200" stop="20260929113000 +0200" channel="tgs.gds.it">
     <title lang="it">TGS STUDIO SPORT</title>
   </programme>
-  <programme start="20260929113000 +0200" stop="20260929142500 +0200" channel="tgs.gds.it">
+  <programme start="20260929113000 +0200" stop="20260929135000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
+  </programme>
+  <programme start="20260929135000 +0200" stop="20260929142500 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
   <programme start="20260929142500 +0200" stop="20260929150000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
@@ -31,11 +34,8 @@
   <programme start="20260929175000 +0200" stop="20260929180000 +0200" channel="tgs.gds.it">
     <title lang="it">SORSI DI BENESSERE</title>
   </programme>
-  <programme start="20260929180000 +0200" stop="20260929181000 +0200" channel="tgs.gds.it">
+  <programme start="20260929180000 +0200" stop="20260929193000 +0200" channel="tgs.gds.it">
     <title lang="it">TG EUROPA</title>
-  </programme>
-  <programme start="20260929181000 +0200" stop="20260929193000 +0200" channel="tgs.gds.it">
-    <title lang="it">SPECIALE FALCONE</title>
   </programme>
   <programme start="20260929193000 +0200" stop="20260929202000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
