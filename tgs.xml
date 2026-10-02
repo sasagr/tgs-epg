@@ -34,8 +34,11 @@
   <programme start="20261002153000 +0200" stop="20261002184000 +0200" channel="tgs.gds.it">
     <title lang="it">Le Avventure del signor Litterio e del signor La Rosa</title>
   </programme>
-  <programme start="20261002184000 +0200" stop="20261002191000 +0200" channel="tgs.gds.it">
+  <programme start="20261002184000 +0200" stop="20261002190000 +0200" channel="tgs.gds.it">
     <title lang="it">VISTA COLORI</title>
+  </programme>
+  <programme start="20261002190000 +0200" stop="20261002191000 +0200" channel="tgs.gds.it">
+    <title lang="it">TG ECONOMIA</title>
   </programme>
   <programme start="20261002191000 +0200" stop="20261002195000 +0200" channel="tgs.gds.it">
     <title lang="it">TG MONTECITORIO</title>
@@ -52,11 +55,8 @@
   <programme start="20261002213000 +0200" stop="20261002223000 +0200" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
   </programme>
-  <programme start="20261002223000 +0200" stop="20261002233000 +0200" channel="tgs.gds.it">
+  <programme start="20261002223000 +0200" stop="20261003080000 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
-  </programme>
-  <programme start="20261002233000 +0200" stop="20261003080000 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
   <programme start="20261003080000 +0200" stop="20261003080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
