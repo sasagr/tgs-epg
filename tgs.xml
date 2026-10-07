@@ -4,8 +4,8 @@
   <channel id="tgs.gds.it">
     <display-name>TGS</display-name>
   </channel>
-  <programme start="20261007005000 +0200" stop="20261007080000 +0200" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
+  <programme start="20261007000000 +0200" stop="20261007080000 +0200" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO II edizione</title>
   </programme>
   <programme start="20261007080000 +0200" stop="20261007080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
