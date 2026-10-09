@@ -4,6 +4,9 @@
   <channel id="tgs.gds.it">
     <display-name>TGS</display-name>
   </channel>
+  <programme start="20261009031000 +0200" stop="20261009080000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA</title>
+  </programme>
   <programme start="20261009080000 +0200" stop="20261009080500 +0200" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
   </programme>
@@ -16,11 +19,8 @@
   <programme start="20261009103000 +0200" stop="20261009113000 +0200" channel="tgs.gds.it">
     <title lang="it">RACCONTAMI</title>
   </programme>
-  <programme start="20261009113000 +0200" stop="20261009135000 +0200" channel="tgs.gds.it">
+  <programme start="20261009113000 +0200" stop="20261009142500 +0200" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
-  </programme>
-  <programme start="20261009135000 +0200" stop="20261009142500 +0200" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
   <programme start="20261009142500 +0200" stop="20261009150000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
