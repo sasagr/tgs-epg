@@ -16,8 +16,11 @@
   <programme start="20261015093000 +0200" stop="20261015110000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
   </programme>
-  <programme start="20261015110000 +0200" stop="20261015135000 +0200" channel="tgs.gds.it">
+  <programme start="20261015110000 +0200" stop="20261015113000 +0200" channel="tgs.gds.it">
     <title lang="it">RACCONTAMI</title>
+  </programme>
+  <programme start="20261015113000 +0200" stop="20261015135000 +0200" channel="tgs.gds.it">
+    <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
   </programme>
   <programme start="20261015135000 +0200" stop="20261015142500 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
@@ -28,11 +31,8 @@
   <programme start="20261015150000 +0200" stop="20261015153000 +0200" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
-  <programme start="20261015153000 +0200" stop="20261015180000 +0200" channel="tgs.gds.it">
+  <programme start="20261015153000 +0200" stop="20261015190000 +0200" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
-  </programme>
-  <programme start="20261015180000 +0200" stop="20261015190000 +0200" channel="tgs.gds.it">
-    <title lang="it">RACCONTAMI</title>
   </programme>
   <programme start="20261015190000 +0200" stop="20261015191000 +0200" channel="tgs.gds.it">
     <title lang="it">TG EUROPA</title>
