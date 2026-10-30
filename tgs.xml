@@ -28,8 +28,11 @@
   <programme start="20261030142500 +0100" stop="20261030150000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
-  <programme start="20261030150000 +0100" stop="20261030184000 +0100" channel="tgs.gds.it">
+  <programme start="20261030150000 +0100" stop="20261030153000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
+  </programme>
+  <programme start="20261030153000 +0100" stop="20261030184000 +0100" channel="tgs.gds.it">
+    <title lang="it">Le Avventure del signor Litterio e del signor La Rosa</title>
   </programme>
   <programme start="20261030184000 +0100" stop="20261030190000 +0100" channel="tgs.gds.it">
     <title lang="it">VISTA COLORI</title>
@@ -49,11 +52,8 @@
   <programme start="20261030210000 +0100" stop="20261030213000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
-  <programme start="20261030213000 +0100" stop="20261030223000 +0100" channel="tgs.gds.it">
+  <programme start="20261030213000 +0100" stop="20261030233000 +0100" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
-  </programme>
-  <programme start="20261030223000 +0100" stop="20261030233000 +0100" channel="tgs.gds.it">
-    <title lang="it">ALLAKATALLA</title>
   </programme>
   <programme start="20261030233000 +0100" stop="20261031080000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO II EDIZIONE</title>
