@@ -19,11 +19,8 @@
   <programme start="20261101110000 +0100" stop="20261101125000 +0100" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
   </programme>
-  <programme start="20261101125000 +0100" stop="20261101132000 +0100" channel="tgs.gds.it">
+  <programme start="20261101125000 +0100" stop="20261101135000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
-  </programme>
-  <programme start="20261101132000 +0100" stop="20261101135000 +0100" channel="tgs.gds.it">
-    <title lang="it">MA NON FINISCE QUA</title>
   </programme>
   <programme start="20261101135000 +0100" stop="20261101143000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
