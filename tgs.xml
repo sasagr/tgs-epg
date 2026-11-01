@@ -19,8 +19,11 @@
   <programme start="20261101110000 +0100" stop="20261101125000 +0100" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
   </programme>
-  <programme start="20261101125000 +0100" stop="20261101135000 +0100" channel="tgs.gds.it">
+  <programme start="20261101125000 +0100" stop="20261101132000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
+  </programme>
+  <programme start="20261101132000 +0100" stop="20261101135000 +0100" channel="tgs.gds.it">
+    <title lang="it">MA NON FINISCE QUA</title>
   </programme>
   <programme start="20261101135000 +0100" stop="20261101143000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
@@ -37,11 +40,8 @@
   <programme start="20261101195000 +0100" stop="20261101202500 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
   </programme>
-  <programme start="20261101202500 +0100" stop="20261101213000 +0100" channel="tgs.gds.it">
+  <programme start="20261101202500 +0100" stop="20261101233000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
-  </programme>
-  <programme start="20261101213000 +0100" stop="20261101233000 +0100" channel="tgs.gds.it">
-    <title lang="it">LE AVVENTURE DEL SIGNOR LITTERIO E DEL SIGNOR LA ROSA</title>
   </programme>
   <programme start="20261101233000 +0100" stop="20261102080000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
