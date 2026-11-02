@@ -19,10 +19,7 @@
   <programme start="20261102113000 +0100" stop="20261102135000 +0100" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA #CUTUTTUUCORI</title>
   </programme>
-  <programme start="20261102135000 +0100" stop="20261102142500 +0100" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I edizione</title>
-  </programme>
-  <programme start="20261102142500 +0100" stop="20261102153000 +0100" channel="tgs.gds.it">
+  <programme start="20261102135000 +0100" stop="20261102153000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I edizione</title>
   </programme>
   <programme start="20261102153000 +0100" stop="20261102175000 +0100" channel="tgs.gds.it">
