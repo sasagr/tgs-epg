@@ -22,7 +22,10 @@
   <programme start="20261106113000 +0100" stop="20261106135000 +0100" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
   </programme>
-  <programme start="20261106135000 +0100" stop="20261106150000 +0100" channel="tgs.gds.it">
+  <programme start="20261106135000 +0100" stop="20261106142500 +0100" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I EDIZIONE</title>
+  </programme>
+  <programme start="20261106142500 +0100" stop="20261106150000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
   <programme start="20261106150000 +0100" stop="20261106153000 +0100" channel="tgs.gds.it">
@@ -52,11 +55,8 @@
   <programme start="20261106213000 +0100" stop="20261106223000 +0100" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
   </programme>
-  <programme start="20261106223000 +0100" stop="20261106233000 +0100" channel="tgs.gds.it">
+  <programme start="20261106223000 +0100" stop="20261107080000 +0100" channel="tgs.gds.it">
     <title lang="it">ALLAKATALLA</title>
-  </programme>
-  <programme start="20261106233000 +0100" stop="20261107080000 +0100" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO II EDIZIONE</title>
   </programme>
   <programme start="20261107080000 +0100" stop="20261107080500 +0100" channel="tgs.gds.it">
     <title lang="it">OROSCOPO</title>
