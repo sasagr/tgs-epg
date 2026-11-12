@@ -25,7 +25,10 @@
   <programme start="20261112135000 +0100" stop="20261112142500 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
-  <programme start="20261112142500 +0100" stop="20261112153000 +0100" channel="tgs.gds.it">
+  <programme start="20261112142500 +0100" stop="20261112150000 +0100" channel="tgs.gds.it">
+    <title lang="it">NOTIZIARIO I Edizione</title>
+  </programme>
+  <programme start="20261112150000 +0100" stop="20261112153000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I Edizione</title>
   </programme>
   <programme start="20261112153000 +0100" stop="20261112180000 +0100" channel="tgs.gds.it">
