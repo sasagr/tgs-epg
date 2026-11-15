@@ -22,11 +22,8 @@
   <programme start="20261115125000 +0100" stop="20261115132000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
   </programme>
-  <programme start="20261115132000 +0100" stop="20261115135000 +0100" channel="tgs.gds.it">
+  <programme start="20261115132000 +0100" stop="20261115143000 +0100" channel="tgs.gds.it">
     <title lang="it">MA NON FINISCE QUA</title>
-  </programme>
-  <programme start="20261115135000 +0100" stop="20261115143000 +0100" channel="tgs.gds.it">
-    <title lang="it">TGS SETTE</title>
   </programme>
   <programme start="20261115143000 +0100" stop="20261115154000 +0100" channel="tgs.gds.it">
     <title lang="it">TGS SETTE</title>
