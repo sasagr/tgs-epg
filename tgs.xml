@@ -28,11 +28,8 @@
   <programme start="20261120142500 +0100" stop="20261120150000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
-  <programme start="20261120150000 +0100" stop="20261120153000 +0100" channel="tgs.gds.it">
+  <programme start="20261120150000 +0100" stop="20261120184000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
-  </programme>
-  <programme start="20261120153000 +0100" stop="20261120184000 +0100" channel="tgs.gds.it">
-    <title lang="it">Le Avventure del signor Litterio e del signor La Rosa</title>
   </programme>
   <programme start="20261120184000 +0100" stop="20261120190000 +0100" channel="tgs.gds.it">
     <title lang="it">VISTA COLORI</title>
