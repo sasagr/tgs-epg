@@ -25,11 +25,8 @@
   <programme start="20261124142500 +0100" stop="20261124150000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
-  <programme start="20261124150000 +0100" stop="20261124153000 +0100" channel="tgs.gds.it">
+  <programme start="20261124150000 +0100" stop="20261124175000 +0100" channel="tgs.gds.it">
     <title lang="it">NOTIZIARIO I EDIZIONE</title>
-  </programme>
-  <programme start="20261124153000 +0100" stop="20261124175000 +0100" channel="tgs.gds.it">
-    <title lang="it">SPECIALE SHOPPING</title>
   </programme>
   <programme start="20261124175000 +0100" stop="20261124180000 +0100" channel="tgs.gds.it">
     <title lang="it">SORSI DI BENESSERE</title>
