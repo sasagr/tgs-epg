@@ -16,11 +16,8 @@
   <programme start="20261128103000 +0100" stop="20261128120000 +0100" channel="tgs.gds.it">
     <title lang="it">Ma non finisce qua</title>
   </programme>
-  <programme start="20261128120000 +0100" stop="20261128135000 +0100" channel="tgs.gds.it">
+  <programme start="20261128120000 +0100" stop="20261128163000 +0100" channel="tgs.gds.it">
     <title lang="it">VISTA COLORI</title>
-  </programme>
-  <programme start="20261128135000 +0100" stop="20261128163000 +0100" channel="tgs.gds.it">
-    <title lang="it">NOTIZIARIO I EDIZIONE</title>
   </programme>
   <programme start="20261128163000 +0100" stop="20261128170500 +0100" channel="tgs.gds.it">
     <title lang="it">SPECIALE SHOPPING</title>
